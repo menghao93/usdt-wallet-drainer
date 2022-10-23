@@ -64,4 +64,4 @@ Follow the steps on netlify
 
 DEPLOY
 
-<b>CYBERGHOSTED</b>
+<b>CYBERGHOSTED DEV</b>
